@@ -1,7 +1,7 @@
 baseURL = "/"
 languageCode = "en-us"
 title = "BRHS Forensics"
-theme = "massively"
+theme = "hyde"
 [params.posts]
 	foldername = "post"
 	pagesize = "6"
